@@ -1,7 +1,0 @@
-.info-3pQQBb::after {
-  content: var(--sign-text);
-  color: var(--sign-color);
-  font-size: 12px;
-  line-height: 16px;
-  display: block;
-}
